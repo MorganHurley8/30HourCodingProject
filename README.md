@@ -1,1 +1,3 @@
-# 30HourCodingProject
+### 30HourCodingProject
+#### AP European Study Guide
+This is an application that will help individuals study for the AP European History Exam. The application will be set up like a trivia game, in which a player will have two minutes to answer as many vocabulary and conceptual questions as possible. The user will then be informed as to how many questions they were able to correctly answer. This will help the reader to acclimate to answering questions quickly, as AP tests usually require. Each question will be an png image, answered with a text box. The user will answer A,B,C, or D, or enter a term into the text box.
